@@ -8,14 +8,14 @@ Vamos chegar, no final, com um ERP (Enterprise Resource Planning) ou Planejament
 Esse sistema será dividido em **três módulos principais:** 
 </br>
 </br>
-**Pedidos**
-       📋 Cadastro de canais(WhatsApp, Presencial, Ifoof, etc.)
-       📋 Cadastro de entregadores
-       📋 Cadastro de pedidos
-       📋 Pedidos via WhatsApp, pensar em uma integração que permita que o pedido seja feito via WhatsApp, diretamente. 
-       📋 Fila para ordenar os pedidos por horário de registro.
-       📋 Cadastro de clientes
-       📋 Cadastro de produtos
+**Pedidos** </br>
+       📋 Cadastro de canais(WhatsApp, Presencial, Ifoof, etc.) </br>
+       📋 Cadastro de entregadores </br>
+       📋 Cadastro de pedidos </br> 
+       📋 Pedidos via WhatsApp, pensar em uma integração que permita que o pedido seja feito via WhatsApp, diretamente. </br>
+       📋 Fila para ordenar os pedidos por horário de registro. </br>
+       📋 Cadastro de clientes </br>
+       📋 Cadastro de produtos </br>
         
 **Controle de Produção e Entrega**
        📋 Para evitar desorganização na cozinha e atrasos na entrega, será implementada uma interface de acompanhamento para produção e expedição
