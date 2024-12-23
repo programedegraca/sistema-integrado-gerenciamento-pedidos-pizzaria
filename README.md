@@ -5,10 +5,9 @@ Para resolver os problemas operacionais enfrentados em uma Pizzaria e modernizar
 Vamos chegar, no final, com um ERP (Enterprise Resource Planning) ou Planejamento de Recursos Empresariais é um sistema de software que integra diversas áreas de uma empresa, centralizando e automatizando processos. Ele funciona como um "cérebro" que controla e organiza todas as informações da organização, desde a produção até a contabilidade.</br>
 
 Imagine um restaurante: sem um ERP, cada área (cozinha, caixa, estoque) teria seu próprio sistema, dificultando a comunicação e a gestão. Com um ERP, todas as informações se conectam: um pedido feito no caixa é automaticamente enviado para a cozinha, o estoque é atualizado e a nota fiscal é gerada.
-
 </br>
 Esse sistema será dividido em **três módulos principais:** 
-</br>
+</br></br>
 **Pedidos** </br>
        📋 Cadastro de canais(WhatsApp, Presencial, Ifoof, etc.) </br>
        📋 Cadastro de entregadores </br>
@@ -16,7 +15,7 @@ Esse sistema será dividido em **três módulos principais:**
        📋 Pedidos via WhatsApp, pensar em uma integração que permita que o pedido seja feito via WhatsApp, diretamente. </br>
        📋 Fila para ordenar os pedidos por horário de registro. </br>
        📋 Cadastro de clientes </br>
-       📋 Cadastro de produtos </br>
+       📋 Cadastro de produtos </br></br>
         
 **Controle de Produção e Entrega**</br></br>
        📋 Para evitar desorganização na cozinha e atrasos na entrega, será implementada uma interface de acompanhamento para produção e expedição</br>
