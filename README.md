@@ -1,14 +1,14 @@
 🚀🚀🚀🚀🚀 # Projeto: Sistema Integrado de Gerenciamento de Pedidos de Pizzaria 🚀🚀🚀🚀
-
-## Descrição
+</br></br>
+## Descrição</br></br>
 
 Para resolver os problemas operacionais enfrentados em uma Pizzaria e modernizar a gestão, desenvolvemos um sistema integrado de gerenciamento de pedidos. 
-Vamos chegar, no final, com um ERP (Enterprise Resource Planning) ou Planejamento de Recursos Empresariais é um sistema de software que integra diversas áreas de uma empresa, centralizando e automatizando processos. Ele funciona como um "cérebro" que controla e organiza todas as informações da organização, desde a produção até a contabilidade.
-
+Vamos chegar, no final, com um ERP (Enterprise Resource Planning) ou Planejamento de Recursos Empresariais é um sistema de software que integra diversas áreas de uma empresa, centralizando e automatizando processos. Ele funciona como um "cérebro" que controla e organiza todas as informações da organização, desde a produção até a contabilidade.</br></br>
+</br></br>
 Esse sistema será dividido em **três módulos principais:** 
 </br>
 </br>
-**Pedidos** </br>
+**Pedidos** </br></br>
        📋 Cadastro de canais(WhatsApp, Presencial, Ifoof, etc.) </br>
        📋 Cadastro de entregadores </br>
        📋 Cadastro de pedidos </br> 
@@ -17,13 +17,13 @@ Esse sistema será dividido em **três módulos principais:**
        📋 Cadastro de clientes </br>
        📋 Cadastro de produtos </br>
         
-**Controle de Produção e Entrega**
-       📋 Para evitar desorganização na cozinha e atrasos na entrega, será implementada uma interface de acompanhamento para produção e expedição
+**Controle de Produção e Entrega**</br></br>
+       📋 Para evitar desorganização na cozinha e atrasos na entrega, será implementada uma interface de acompanhamento para produção e expedição</br>
 
-**Relatórios e Armazenamento de Dados.**
-       📋 Relatórios de Pedidos
-       📋 Relatórios Financeiros e Operacionais
-       📋 Relatório de estoque, produtos, avisando quando um produto estiver em baixa no estoque.
+**Relatórios e Armazenamento de Dados.**</br></br>
+       📋 Relatórios de Pedidos</br>
+       📋 Relatórios Financeiros e Operacionais</br>
+       📋 Relatório de estoque, produtos, avisando quando um produto estiver em baixa no estoque.</br>
         
 Dar exemplos
 🔧 Instalação
