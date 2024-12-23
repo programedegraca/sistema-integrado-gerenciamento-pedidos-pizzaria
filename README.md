@@ -6,7 +6,8 @@ Para resolver os problemas operacionais enfrentados em uma Pizzaria e modernizar
 Vamos chegar, no final, com um ERP (Enterprise Resource Planning) ou Planejamento de Recursos Empresariais é um sistema de software que integra diversas áreas de uma empresa, centralizando e automatizando processos. Ele funciona como um "cérebro" que controla e organiza todas as informações da organização, desde a produção até a contabilidade.
 
 Esse sistema será dividido em **três módulos principais:** 
-
+</br>
+</br>
 **Pedidos**
        📋 Cadastro de canais(WhatsApp, Presencial, Ifoof, etc.)
        📋 Cadastro de entregadores
